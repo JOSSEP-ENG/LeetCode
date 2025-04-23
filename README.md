@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JOSSEP-ENG/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/JOSSEP-ENG/LeetCode/tree/master/0049-group-anagrams) |
 | [0837-most-common-word](https://github.com/JOSSEP-ENG/LeetCode/tree/master/0837-most-common-word) |
 | [0974-reorder-data-in-log-files](https://github.com/JOSSEP-ENG/LeetCode/tree/master/0974-reorder-data-in-log-files) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/JOSSEP-ENG/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/JOSSEP-ENG/LeetCode/tree/master/0049-group-anagrams) |
 | [0837-most-common-word](https://github.com/JOSSEP-ENG/LeetCode/tree/master/0837-most-common-word) |
 ## Counting
